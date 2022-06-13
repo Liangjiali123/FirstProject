@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\testlastcode\\TopLine\\bubbleviews\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\heart.png",
+        "source": "C:\\Users\\admin\\Desktop\\testlastcode\\TopLine\\bubbleviews\\build\\intermediates\\bundles\\debug\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\testlastcode\\TopLine\\bubbleviews\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\heart_border.png",
+        "source": "C:\\Users\\admin\\Desktop\\testlastcode\\TopLine\\bubbleviews\\build\\intermediates\\bundles\\debug\\res\\drawable\\heart_border.png"
+    },
+    {
+        "merged": "C:\\Android\\TopLine\\bubbleviews\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\heart_border.png",
+        "source": "C:\\Android\\TopLine\\bubbleviews\\build\\intermediates\\bundles\\debug\\res\\drawable\\heart_border.png"
+    },
+    {
+        "merged": "C:\\Android\\TopLine\\bubbleviews\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\heart.png",
+        "source": "C:\\Android\\TopLine\\bubbleviews\\build\\intermediates\\bundles\\debug\\res\\drawable\\heart.png"
+    }
+]

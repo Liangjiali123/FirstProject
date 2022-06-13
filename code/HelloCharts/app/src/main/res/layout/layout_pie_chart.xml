@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="8dp"
+        android:text="2017年互联网教育细分领域投资情况，具体如下图所示。"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="14sp" />
+    <lecho.lib.hellocharts.view.PieChartView
+        android:id="@+id/pv_chart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

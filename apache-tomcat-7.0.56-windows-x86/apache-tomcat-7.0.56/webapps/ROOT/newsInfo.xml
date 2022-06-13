@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+    <newsInfo>
+        <icon>http://172.16.43.51:8080/img/a.jpg</icon>
+        <title>科技温暖世界</title>
+        <content>进入一个更有爱的领域</content>
+        <type>1</type>
+        <comment>69</comment>
+    </newsInfo>
+    <newsInfo>
+        <icon>http://172.16.43.51:8080/img/b.jpg</icon>
+        <title>《神武》</title>
+        <content>新美术资源盘点 视觉新体验</content>
+        <type>2</type>
+        <comment>35</comment>
+    </newsInfo>
+    <newsInfo>
+        <icon>http://172.16.43.51:8080/img/c.jpg</icon>
+        <title>南北车正式公布合并</title>
+        <content>南北车将于今日正式公布合并</content>
+        <type>3</type>
+        <comment>2</comment>
+    </newsInfo>
+    <newsInfo>
+        <icon>http://172.16.43.51:8080/img/d.jpg</icon>
+        <title>北京拟推医生电子注册</title>
+        <content>突破多点执业"限制"</content>
+        <type>1</type>
+        <comment>25</comment>
+    </newsInfo>
+    <newsInfo>
+        <icon>http://172.16.43.51:8080/img/e.jpg</icon>
+        <title>风力发电进校园</title>
+        <content>风力发电普进校园</content>
+        <type>2</type>
+        <comment>26</comment>
+    </newsInfo>
+    <newsInfo>
+        <icon>http://172.16.43.51:8080/img/f.jpg</icon>
+        <title>地球一小时</title>
+        <content>地球熄灯一小时</content>
+        <type>1</type>
+        <comment>23</comment>
+    </newsInfo>
+</news>

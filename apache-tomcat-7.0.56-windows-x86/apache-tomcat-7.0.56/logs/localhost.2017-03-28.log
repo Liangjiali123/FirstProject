@@ -1,0 +1,6 @@
+三月 28, 2017 1:42:13 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+三月 28, 2017 1:42:13 下午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+三月 28, 2017 1:42:13 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@2b632f90')

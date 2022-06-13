@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\aaa\HelloCharts\hellocharts-library\src\main\assets"/><source path="C:\aaa\HelloCharts\hellocharts-library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\aaa\HelloCharts\hellocharts-library\src\debug\assets"/></dataSet></merger>
